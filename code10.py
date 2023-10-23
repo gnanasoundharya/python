@@ -1,0 +1,21 @@
+# b={'mumbai','madurai','chennai','delhi'}
+# c={'mumbai','madurai','chennai'}
+# d=b.union(c)
+# print(d)
+# e=b.symmetric_difference(c)
+# print(c)
+# print(c.issubset(b))
+# print(c.issuperset(b))
+a=(20,10,45,10,6,'arya',3,6)
+print(a)
+print(a[3])
+print(len(a))
+print(a.count((6)))
+print(a.index(10))
+# +(concated opertor)
+a1=('win','rin')
+demo=a+a1
+print(demo)
+print(type(a1))
+print(a[0:3])
+print(a[-4])
